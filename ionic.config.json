@@ -1,0 +1,14 @@
+{
+  "name": "braintree",
+  "app_id": "2023192d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  },
+  "proxies": [
+    {
+      "path": "/",
+      "proxyUrl": "http://localhost:3000"
+    }
+  ]
+}
